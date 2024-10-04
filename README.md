@@ -1,2 +1,2 @@
 <h1>Odin Recipes</h1>
-<p>Required HTML project for The Odin Project</p>
+<p>Required HTML and CSS project for The Odin Project</p>
